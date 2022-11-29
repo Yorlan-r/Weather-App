@@ -30,6 +30,9 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 ## Mock-Up
   
 ![Weather app pic](https://user-images.githubusercontent.com/106920094/204408669-c9398c06-f7bd-4043-a346-8bd5a505b56c.PNG)
+  
+  ## Deployment
+  http://127.0.0.1:5500/index.html
 
 
 
